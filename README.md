@@ -302,11 +302,3 @@ Application containerized using Docker.
 - CI/CD Deployment to Cloud Platforms
 
 ---
-
-# Author
-
-**Kanishka Rajesh**
-
-
-
-GitHub: https://github.com/Kanishka-Rajesh
